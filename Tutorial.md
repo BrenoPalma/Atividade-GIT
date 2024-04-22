@@ -43,6 +43,7 @@ def hello_world():
     print("Hello world")
 
 hello_world()
+```
 
 [GitHub](https://github.com)
 
